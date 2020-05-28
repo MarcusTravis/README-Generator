@@ -39,6 +39,11 @@ inquirer.prompt([
         message: "Give me a step by step series of examples that tell you how to get a development env running(use <br> to make line breaks between steps i.e. Step 01. Install<br> Step 02. Next step):",
     },
     {
+        name: "tests",
+        type: "input",
+        message: "Explain how to run the automated tests for this system:",
+    },
+    {
         name: "deploy",
         type: "input",
         message: "Add additional notes about how to deploy this on a live system:",

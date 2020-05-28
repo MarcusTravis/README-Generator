@@ -5,6 +5,20 @@ module.exports = function (user) {
 
 ${user.description}
 
+## Table of Contents
+
+* Getting Started
+* prerequisites
+* Installing
+* Running the tests
+* Deployment
+* Built With
+* Contributing
+* Versioning
+* Authors
+* Licensing
+* Acknowledgements
+
 ## Getting Started
 
 ${user.gettingStarted + " See deployment for notes on how to deploy the project on a live system."}
@@ -27,6 +41,10 @@ ${user.install}
 Give the example
 End with an example of getting some data out of the system or using it for a little demo
 \`\`\`
+
+## Running the tests
+
+${tests}
 
 ## Deployment
 
