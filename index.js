@@ -41,7 +41,7 @@ inquirer.prompt([
     {
         name: "install",
         type: "input",
-        message: "Give me a step by step series of examples that tell you how to get a development env running(use <br> to make line breaks between steps i.e. Step 01. Install<br> Step 02. Next step):",
+        message: "Give me a step by step series of examples that tell you how to get a development env running(use <br> to make line breaks between steps i.g. Step 01. Install<br> Step 02. Next step):",
     },
     {
         name: "tests",
@@ -56,7 +56,7 @@ inquirer.prompt([
     {
         name: "builtWith",
         type: "input",
-        message: "Give list of coding languages and frameworks etc.. i.e.:* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used * [Maven](https://maven.apache.org/) - Dependency Management * [ROME](https://rometools.github.io/rome/) - Used to make repository:",
+        message: "Give list of coding languages and frameworks etc.. i.g.:* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used * [Maven](https://maven.apache.org/) - Dependency Management * [ROME](https://rometools.github.io/rome/) - Used to make repository:",
     },
     {
         name: "contributers",
