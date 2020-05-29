@@ -23,19 +23,9 @@ This is a README.md generator using Node.js that creates a newREADME.md file usi
 
 In order to run this generator, you must first download and install Node.js. You can find installation instructions in english here: https://nodejs.org/en/download/
 
-``` 
-Give examples
-```
-
 ### Installing
 
 Step 01. Download and Install Node.js<br>
-
-
-```
-Give the example
-End with an example of getting some data out of the system or using it for a little demo
-```
 
 ## Running the tests
 
