@@ -1,6 +1,6 @@
 # README.md-Generator
 
-! [GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-Generator?style=plastic) ! [GitHub](https://img.shields.io/github/license/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/followers/MarcusTravis?style=social)
+![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/license/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/followers/MarcusTravis?style=social)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Give examples
 
 ### Installing
 
-Step 01. Download and Install Node.js<br>Step 02. Open GitBash or terminal and open README-Generator in terminal.<br>Step 03. Type "npm i inquirer" inside terminal and press enter to install node_modules file(required to run README-Generator).<br>Step 04. Type "node index.js" inside terminal and press enter to run README-Generator.<br>Step 05. Answer prompted questions inside terminal.<br>Step 06. Open newly created newREADME.md file to see the magic!
+Step 01. Download and Install Node.js<br>
 
 
 ```
@@ -43,7 +43,7 @@ N/A
 
 ## Deployment
 
-N/A
+Step 01. Open GitBash or terminal and open README-Generator in terminal.<br>Step 02. Type "npm i inquirer" inside terminal and press enter to install node_modules file(required to run README-Generator).<br>Step 03. Type "node index.js" inside terminal and press enter to run README-Generator.<br>Step 04. Answer prompted questions inside terminal.<br>Step 05. Open newly created newREADME.md file to see the magic!
 
 ## Built With
 
