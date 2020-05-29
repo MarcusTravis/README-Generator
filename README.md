@@ -33,7 +33,14 @@ N/A
 
 ## Deployment
 
-Step 01. Open GitBash or terminal and open README-Generator in terminal.<br>Step 02. Type "npm i inquirer" inside terminal and press enter to install node_modules file(required to run README-Generator).<br>Step 03. Type "node index.js" inside terminal and press enter to run README-Generator.<br>Step 04. Answer prompted questions inside terminal.<br>Step 05. Open newly created newREADME.md file to see the magic!
+Step 01. Open GitBash or terminal and open README-Generator in terminal.<br>
+Step 02. Type "npm i inquirer" inside terminal and press enter to install node_modules file(required to run README-Generator).<br>
+Step 03. Type "node index.js" inside terminal and press enter to run README-Generator.<br>Step 04. Answer prompted questions inside terminal.<br>
+Step 05. Open newly created newREADME.md file to see the magic!<br>
+<br>
+<br>
+<br>
+<img width="600" src="images/READMEscreenshot.PNG">
 
 ## Built With
 
