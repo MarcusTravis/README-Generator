@@ -37,7 +37,7 @@ Step 01. Open GitBash or terminal and open README-Generator in terminal.<br>Step
 
 ## Built With
 
-N/A
+JavaScript
 
 ## Contributing
 
