@@ -41,7 +41,7 @@ ${user.deploy}
 
 ## Built With
 
-${user.buildWith}
+${user.builtWith}
 
 ## Contributing
 

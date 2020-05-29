@@ -54,9 +54,9 @@ inquirer.prompt([
         message: "Add additional notes about how to deploy this on a live system:",
     },
     {
-        name: "buildWith",
+        name: "builtWith",
         type: "input",
-        message: "Give frameworks etc.. i.e.:* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used * [Maven](https://maven.apache.org/) - Dependency Management * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds:",
+        message: "Give list of coding languages and frameworks etc.. i.e.:* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used * [Maven](https://maven.apache.org/) - Dependency Management * [ROME](https://rometools.github.io/rome/) - Used to make repository:",
     },
     {
         name: "contributers",
