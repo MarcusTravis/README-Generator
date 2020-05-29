@@ -34,11 +34,6 @@ inquirer.prompt([
         message:"One Paragraph of project description goes here:",
     },
     {
-        name: "gettingStarted",
-        type: "input",
-        message: "Write instructions that will get you a copy of the project up and running on your local machine for development and testing purposes.",
-    },
-    {
         name: "preReqs",
         type: "input",
         message: "What software does the user need to install and how do you install them?",

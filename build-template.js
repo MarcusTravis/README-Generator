@@ -7,7 +7,6 @@ module.exports = function (user) {
 
 ## Table of Contents
 
-* [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
 * [Installing](#Installing)
 * [Running the tests](#running-the-tests)
@@ -22,11 +21,6 @@ module.exports = function (user) {
 ## Description
 
 ${user.description}
-
-## Getting Started
-
-${user.gettingStarted + " See deployment for notes on how to deploy the project on a live system."}
-
 
 ### Prerequisites
 

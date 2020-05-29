@@ -6,7 +6,6 @@ One Paragraph of project description goes here
 
 ## Table of Contents
 
-* [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
 * [Installing](#Installing)
 * [Running the tests](#running-the-tests)
