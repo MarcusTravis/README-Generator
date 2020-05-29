@@ -1,6 +1,6 @@
 # README.md-Generator
 
-![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/license/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/followers/MarcusTravis?style=social)
+![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/license/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/followers/MarcusTravis?style=social)
 
 ## Table of Contents
 
