@@ -1,20 +1,22 @@
 # Project Title
 
+![GitHub](https://img.shields.io/github/license/MarcusTravis/README-generator?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/MarcusTravis/README-generator?style=plastic) ![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-generator?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/followers/MarcusTravis?style=social)
+
 One Paragraph of project description goes here
 
 ## Table of Contents
 
-* Getting Started
-* prerequisites
-* Installing
-* Running the tests
-* Deployment
-* Built With
-* Contributing
-* Versioning
-* Authors
-* Licensing
-* Acknowledgements
+* [Getting Started](#getting-started)
+* [Prerequisites](#prerequisites)
+* [Installing](#Installing)
+* [Running the tests](#running-the-tests)
+* [Deployment](#deployment)
+* [Built With](#built-with)
+* [Contributing](#contributing)
+* [Version](#version)
+* [Authors](#authors)
+* [License](#license)
+* [Acknowledgements](#acknowledgements)
 
 
 ## Getting Started
@@ -58,7 +60,7 @@ Add additional notes about how to deploy this on a live system
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Version
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
@@ -72,7 +74,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Acknowledgements
 
 * Hat tip to anyone whose code was used
 * Inspiration

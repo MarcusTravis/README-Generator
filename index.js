@@ -19,6 +19,16 @@ inquirer.prompt([
         message:"What is the project title?",
     },
     {
+        name:"githubUserName",
+        type:"input",
+        message:"What is your Github user name??",
+    },
+    {
+        name:"repoName",
+        type:"input",
+        message:"What is the name of this Github repository?",
+    },
+    {
         name:"description",
         type:"input",
         message:"One Paragraph of project description goes here:",
