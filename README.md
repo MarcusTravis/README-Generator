@@ -17,7 +17,7 @@
 
 ## Description
 
-This is a README.md generator using Node.js that creates a newREADME.md file using a template that I have created along with my classmates during my coding bootcamp.
+This is a README.md generator using Node.js that creates a newREADME.md file using a template that I have created along with my classmates during my coding bootcamp course at UofA.
 
 ### Prerequisites
 
