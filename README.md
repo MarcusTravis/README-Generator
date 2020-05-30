@@ -49,8 +49,8 @@ JavaScript
 Marcus Travis, and his classmates and teachers from UofA code bootcamp.
 
 ## Version
-(Update this as needed)
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+[SemVer](http://semver.org/)
 
 ## Authors
 
