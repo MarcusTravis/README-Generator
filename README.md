@@ -38,9 +38,7 @@ Step 02. Type "npm i inquirer" inside terminal and press enter to install node_m
 Step 03. Type "node index.js" inside terminal and press enter to run README-Generator.<br>Step 04. Answer prompted questions inside terminal.<br>
 Step 05. Open newly created newREADME.md file to see the magic!<br>
 <br>
-<br>
-<br>
-<img width="600" src="images/READMEscreenshot.PNG">
+<img width="1000" src="images/READMEscreenshot.PNG">
 
 ## Built With
 

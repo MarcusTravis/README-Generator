@@ -3,7 +3,7 @@ module.exports = function (user) {
     return` 
 # ${user.title}
 
-![GitHub](https://img.shields.io/github/repo-size/${user.githubUserName}/${user.repoName}?style=plastic) ![GitHub](https://img.shields.io/github/license/${user.githubUserName}/${user.repoName}?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/${user.githubUserName}/${user.repoName}?style=plastic) ![GitHub](https://img.shields.io/github/followers/${user.githubUserName}?style=social)
+![GitHub](https://img.shields.io/github/repo-size/${user.githubUserName}/${user.repoName}?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/${user.githubUserName}/${user.repoName}?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/${user.githubUserName}/${user.repoName}?style=plastic) ![GitHub](https://img.shields.io/github/license/${user.githubUserName}/${user.repoName}?style=plastic) ![GitHub](https://img.shields.io/github/followers/${user.githubUserName}?style=social)
 
 ## Table of Contents
 
