@@ -1,4 +1,4 @@
-# README.md-Generator
+# Node.js-README.md-Generator
 
 ![GitHub](https://img.shields.io/github/repo-size/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/license/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/MarcusTravis/README-Generator?style=plastic) ![GitHub](https://img.shields.io/github/followers/MarcusTravis?style=social)
 
@@ -17,7 +17,7 @@
 
 ## Description
 
-This is a README.md generator using Node.js that creates a newREADME.md file using a template that I have created along with my classmates during my coding bootcamp.
+This is a README.md generator using Node.js that creates a newREADME.md file using a template that I have created along with my classmates during my coding bootcamp course at UofA.
 
 ### Prerequisites
 
