@@ -41,7 +41,7 @@ inquirer.prompt([
     {
         name: "install",
         type: "input",
-        message: "Give me a step by step series of examples that tell you how to get a development env running(use <br> to make line breaks between steps i.g. Step 01. Install<br> Step 02. Next step):",
+        message: "Give me a step by step series of examples that tell you how to install anything required to get repository running on user screen. (Yse <br> to make line breaks between steps i.g.: Step 01. Install<br> Step 02. Next step):",
     },
     {
         name: "tests",
@@ -51,7 +51,7 @@ inquirer.prompt([
     {
         name: "deploy",
         type: "input",
-        message: "Add additional notes about how to deploy this on a live system:",
+        message: "Add notes on how to deploy this on a live system:",
     },
     {
         name: "builtWith",
