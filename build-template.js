@@ -59,7 +59,7 @@ ${user.authors}
 
 ${user.license}
 
-## Acknowledgments
+## Acknowledgements
 
 ${user.acknowledge}
 * Hat tip to anyone whose code was used!
