@@ -9,7 +9,6 @@ module.exports = function (user) {
 
 * [Prerequisites](#prerequisites)
 * [Installing](#Installing)
-* [Running the tests](#running-the-tests)
 * [Deployment](#deployment)
 * [Built With](#built-with)
 * [Contributing](#contributing)
@@ -30,10 +29,6 @@ ${user.preReqs}
 
 ${user.install}
 
-
-## Running the tests
-
-${user.tests}
 
 ## Deployment
 
@@ -62,6 +57,6 @@ ${user.license}
 ## Acknowledgements
 
 ${user.acknowledge}
-* Hat tip to anyone whose code was used!
+* Hat tip to all open-source frameworks, libraries, and anyone whose code was used!
 * Inspirations:${" " + user.inspirations}
 `};
